@@ -3,6 +3,8 @@ package com.dsware.om.client.common;
 import com.dsware.om.client.exception.DSwareErrorCode;
 import com.dsware.om.client.exception.DSwareException;
 import com.dsware.om.client.util.CommonUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class MessageDispatcher {
   private static final Logger LOGGER = LoggerFactory.getLogger(MessageDispatcher.class);
