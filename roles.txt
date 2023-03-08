@@ -1,0 +1,133 @@
+{{Investigator
+| name            =
+| subtitle        = The Fed
+| image1          = Roland Banks CS.jpg
+| caption1        = Core Set Card art
+| class           = Guardian
+| health          = 9
+| sanity          = 5
+| willpower       = 3
+| intellect       = 3
+| combat          = 4
+| agility         = 2
+| ability         = {{icon|Reaction}}: After you defeat an [[enemy]]: Discover 1 [[clue]] at your [[location]]. (Limit once per [[round]].)
+| elder_sign      = +1 for each clue on your location.
+| deck_size       = 30
+| db_options      = [[Guardian]] cards [[level]] 0-5, [[Seeker]] cards level 0-2, [[Neutral]] cards level 0-5.
+| db_requirements = [[Roland's .38 Special]], [[Cover Up]], 1 random [[basic weakness]] (do not count toward deck size)
+| traits          = Agency. Detective
+| cycle           = CS
+| card_number     = 1
+}}
+{{quote|Everything by the book: every "i" dotted, every "t" crossed. It has worked, until now.}}
+
+'''Roland Banks''' is a [[guardian]] [[investigator]] that is part of the [[core set]].
+
+==Card Text==
+{{quote|Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand. Roland knew he would have to handle this one himself.}}
+
+==Deckbuilding==
+Roland has a deck size of 30 card made up of [[Guardian cards]] (level 0 - 5), [[Seeker cards]] (level 0 - 2) and [[Neutral cards]] (level 0-5). This does not include a random [[basic weakness]] or his signature investigator cards.
+
+===Starter deck===
+This is the recommended starter deck for Roland Banks from FFG and requires a single [[core set]].
+*Investigator
+**Roland Banks
+*[[Asset]]s (17)
+**[[Roland's .38 Special]]
+**[[.45 Automatic]]
+**[[Physical Training]]
+**[[Beat Cop]]
+**[[First Aid]]
+**[[Machete]]
+**[[Guard Dog]]
+**[[Magnifying Glass]]
+**[[Old Book of Lore]]
+**[[Research Librarian]]
+**[[Dr. Milan Christopher]]
+**[[Hyperawareness]]
+**[[Medical Texts]]
+**2x[[Knife]]
+**2x[[Flashlight]]
+*[[Event]]s (8)
+**[[Evidence!]]
+**[[Dodge]]
+**[[Dynamite Blast]]
+**[[Mind over Matter]]
+**[[Working a Hunch]]
+**[[Barricade]]
+**2x[[Emergency Cache]]
+*[[Skill]]s (6)
+**[[Vicious Blow]]
+**[[Deduction]]
+**2x[[Guts]]
+**2x[[Manual Dexterity]]
+*Weaknesses (2)
+**[[Cover Up]]
+**1 random [[basic weakness]]
+
+===Cards===
+{|class="wikitable"
+|-
+!colspan="2"|Available cards for Roland Banks
+|-
+!Signature cards
+|[[Roland's .38 Special]] - [[Cover Up]]
+|-
+!colspan="2"|Guardian cards (lvl 0 - 5)
+|-
+!Level 0
+|{{CardDraw|Guardian|0}}
+|-
+!Level 1
+|{{CardDraw|Guardian|1}}
+|-
+!Level 2
+|{{CardDraw|Guardian|2}}
+|-
+!Level 3
+|{{CardDraw|Guardian|3}}
+|-
+!Level 4
+|{{CardDraw|Guardian|4}}
+|-
+!Level 5
+|{{CardDraw|Guardian|5}}
+|-
+!colspan="2"|Seeker cards (lvl 0 - 2)
+|-
+!Level 0
+|{{CardDraw|Seeker|0}}
+|-
+!Level 1
+||{{CardDraw|Seeker|1}}
+|-
+!Level 2
+|{{CardDraw|Seeker|2}}
+|-
+!colspan="2"|Neutral cards (lvl 0 - 5)
+|-
+!Level 0
+|{{CardDraw|Neutral|0}}
+|-
+!Level 1
+|{{CardDraw|Neutral|1}}
+|-
+!Level 2
+|{{CardDraw|Neutral|2}}
+|-
+!Level 3
+|{{CardDraw|Neutral|3}}
+|-
+!Level 4
+|{{CardDraw|Neutral|4}}
+|-
+!Level 5
+|{{CardDraw|Neutral|5}}
+|-
+|colspan="2" style="text-align:center;"|[[Basic weakness]]es
+|}
+{{DEFAULTSORT:Banks, Roland}}
+[[Category:Core Set]]
+[[Category:Investigators]]
+[[Category:Guardians]]
