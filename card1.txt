@@ -1,0 +1,21 @@
+{{Player card
+| type        = Asset
+| image1      = Roland's .38 Special.jpg
+| caption1    = Card art
+| name        = Roland's .38 Special
+| subtitle    = 
+| class       = Neutral
+| cost        = 3
+| level       = 0
+| slot        = 1hand
+| skill_tests = {{SkillIcon|Combat}}{{SkillIcon|Agility}}{{SkillIcon|Wild}}
+| traits      = Item. Weapon. Firearm.
+| ability     = [[Roland Banks]] deck only.<br>Uses (4 ammo).<br>{{icon|Action}}: Spend 1 ammo: '''Fight'''. You get +1  for this attack (if there are 1 or more [[clue]]s on your location, you get +3 , instead). This attack deals +1 [[damage]].
+| cycle       = CS
+| card_number = 6
+| health      = 
+| sanity      = 
+}}
+'''Roland's .38 Special''' is a [[Roland Banks]] signature [[asset]] card that is part of the [[core set]].
+[[Category:Assets]]
+[[Category:Neutral cards]]
